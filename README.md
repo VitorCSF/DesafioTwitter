@@ -43,7 +43,7 @@
 
 ## Links
 
-  - Repositório: https://github.com/VitorCSF/DesafioTwiiter
+  - Repositório: https://github.com/VitorCSF/DesafioTwitter
 
 <br>
 
